@@ -2,7 +2,7 @@
 
   <img width="200px" src="https://qph.fs.quoracdn.net/main-qimg-8d71d8588b76fbb0cc5cdec3be420d63" />
 
-### Spring Demo
+### Demo
 
 </div>
 
